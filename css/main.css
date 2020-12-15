@@ -1551,6 +1551,7 @@ html.mfp-helper {
   position: relative;
   overflow: hidden;
   width: 100%;
+  max-height: 340px;
   height: 100%;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
